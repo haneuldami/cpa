@@ -1,1 +1,1 @@
-# project euiler
+# practice
